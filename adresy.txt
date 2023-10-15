@@ -24,6 +24,7 @@ Saint Paul
 Jackson
 Jefferson City
 Helena
+
 Lincoln
 Carson City
 Concord
